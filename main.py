@@ -99,4 +99,4 @@ if __name__ == "__main__":
                 if choice == "N":
                     break
             else:
-                print("User not found !")
+                print("User not found !, please enter existing user")
